@@ -1,5 +1,8 @@
-﻿namespace WpfContacts.Model
+﻿namespace Model
 {
+    /// <summary>
+    /// Хранит данные о контакте.
+    /// </summary>
     public class Contact
     {
         /// <summary>
