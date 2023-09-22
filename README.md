@@ -7,7 +7,6 @@ My-Projects/src/
 WinForms
 1. Programming
 2. ListOfEmployees
-3. ObjectOrientedPractics
 
 WPF
 1. Contacts
